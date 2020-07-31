@@ -2,7 +2,7 @@
 
 My name is César and I am an easy going brazilian guy that loves programming, reading and playing football. I am a developer with 15+ years of experience in web and back-end development. I enjoy a challenging working environment and I am focused on delivering quality work and motivated with the possibility of new experiences and learnings.  
 
-At the moment I work as chief of technology, full stack developer and system administrator at https://hqbeds.com/wp-content/themes/hqbeds/assets/img/logo.png
+At the moment I work as chief of technology, full stack developer and system administrator at <a href="https://hqbeds.com/" target="_blank">hqbeds</a>
 
 
 [![Blog Badge](https://img.shields.io/badge/hqbeds.com-green?style=for-the-badge)](https://hqbeds.com)
